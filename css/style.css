@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+
+
+.treno img {
+  float: left;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+  width: 100%;
+}
+
+.container {
+  float: left;
+  position: absolute;
+  max-width: 60%;
+  height: 70vh;
+  padding: 20px;
+  margin-left: 20px;
+  background-color: #fff;
+  border: 2px solid blue;
+}
